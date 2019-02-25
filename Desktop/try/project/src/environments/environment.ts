@@ -5,12 +5,12 @@
 export const environment = {
   production: false,
   firebase : {
-      apiKey: "AIzaSyA5Cd6wWhGyS0vztwbNJleYtdaeRyDrc8Q",
-      authDomain: "ngoblog-ro.firebaseapp.com",
-      databaseURL: "https://ngoblog-ro.firebaseio.com",
-      projectId: "ngoblog-ro",
-      storageBucket: "ngoblog-ro.appspot.com",
-      messagingSenderId: "800042857882"
+    apiKey: "AIzaSyDSmIZVF5ePhLd4ioNbNixIjlWNbxR6ILA",
+    authDomain: "blogdb-com.firebaseapp.com",
+    databaseURL: "https://blogdb-com.firebaseio.com",
+    projectId: "blogdb-com",
+    storageBucket: "",
+    messagingSenderId: "913165487263"
   }
 };
 
